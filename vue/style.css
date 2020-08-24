@@ -1,0 +1,27 @@
+/*Mise en forme des sujets*/
+.sujet{
+	border-bottom : 1px groove grey;
+	border-left : 1px groove grey;
+	border-right : 1px groove grey;
+	border-top : 30px solid dodgerblue;
+	
+	display : block;
+}
+
+/*Mise en forme des reponses*/
+.reponse{
+	border-bottom : 1px groove grey;
+	border-left : 1px groove grey;
+	border-right : 1px groove grey;
+	border-top : 30px solid dodgerblue;
+	
+	display : block;
+}
+
+.formulaire{
+	width:100%;
+	height:100%;
+	text-align:center;
+}
+
+
